@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>なんでも入口散歩の会（作成中のお試し版）</title>
+<style>
+    body {
+        font-family: "Hiragino Sans", "Yu Gothic", sans-serif;
+        background: #f7f6f2;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        line-height: 1.8;
+    }
+    header {
+        background: #e8f3e8;
+        padding: 40px 20px;
+        text-align: center;
+        border-bottom: 1px solid #ddd;
+    }
+    header h1 {
+        margin: 0;
+        font-size: 2.2em;
+        color: #3a6b52;
+    }
+    header p {
+        margin: 10px 0 0;
+        font-size: 1.1em;
+        color: #4a7b63;
+    }
+    .notice {
+        background: #fff8d6;
+        border-left: 6px solid #e6c04f;
+        padding: 15px 20px;
+        margin: 20px auto;
+        max-width: 800px;
+        border-radius: 6px;
+        font-size: 0.95em;
+    }
+    section {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 0 20px;
+    }
+    h2 {
+        color: #3a6b52;
+        border-left: 6px solid #9cc7a8;
+        padding-left: 10px;
+        margin-top: 40px;
+    }
+    .memo-box {
+        background: #ffffff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 20px 0;
+    }
+    footer {
+        background: #e8f3e8;
+        text-align: center;
+        padding: 30px 20px;
+        margin-top: 60px;
+        border-top: 1px solid #ddd;
+        color: #4a7b63;
+    }
+    .contact-box {
+        background: #ffffff;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        padding: 20px;
+        margin: 20px 0;
+    }
+    .contact-item {
+        margin-bottom: 20px;
+    }
+    input, textarea {
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #bbb;
+        border-radius: 6px;
+        font-size: 1em;
+        box-sizing: border-box;
+    }
+    button {
+        background: #3a6b52;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 1em;
+    }
+    button:hover {
+        background: #2e5641;
+    }
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>なんでも入口散歩の会</h1>
+    <p>― 科学の入口だけ、みんなでのんびり歩く小さなサロン ―</p>
+</header>
+
+<div class="notice">
+    このホームページは、ただいま作成中のお試し版です。<br>
+    散歩道を少しずつ整えている途中ですが、よかったら気軽にのぞいていってください。
+</div>
+
+<section>
+    <h2>🍃 ようこそ</h2>
+    <p>
+        むずかしいことは置いておいて、ちょっとだけ世界が広がる“科学の入口”を、
+        みんなでゆるく散歩してみる会です。<br><br>
+        相対性理論、DNA、光、半導体、人類の進化…。名前は知っているけれど深くは知らない。<br>
+        でも、入口だけなら「なるほど」とうなずける。<br><br>
+        ここは、そんな“入口だけの知的散歩道”です。
+    </p>
+
+    <h2>🌱 この会は、こんなところです</h2>
+    <p>
+        ・先生はいません。<br>
+        ・生徒もいません。<br>
+        ・みんなが「おもしろかった入口」を持ち寄るだけ。<br><br>
+        「へぇ〜」「なるほど〜」と、ゆるくうなずき合う時間を楽しむ会です。<br>
+        専門的な議論より、“世界っておもしろいな”と感じる瞬間を大切にしています。
+    </p>
+
+    <h2>🚶‍♂️ ゆるい活動イメージ</h2>
+    <p>
+        ・入口テーマトーク（例：時間は本当に伸びるの？）<br>
+        ・みんなの“なるほどメモ”紹介<br>
+        ・雑談タイム（寄り道歓迎）<br><br>
+        ときには、コーヒーやお茶、そして軽くお酒をたしなみながら、  
+        ゆるく語り合う時間があってもいいなと思っています。
+    </p>
+
+    <h2>🌼 こんな方に向いています</h2>
+    <p>
+        ・科学は好きだけど専門家ではない方<br>
+        ・文系だけど理系の話がちょっと気になる方<br>
+        ・仕事モードから離れてゆるく頭を使いたい方<br>
+        ・知的な話をしながら、軽くお酒をたしなむ時間も好きな方<br><br>
+        「なんとなくおもしろそうだから、のぞいてみたい」  
+        そのくらいの気持ちで、ふらっとどうぞ。
+    </p>
+
+    <h2>🍷 お酒も、ゆるく楽しみます</h2>
+    <p>
+        この会は「勉強会」ではなく、ちょっとした知的な散歩を楽しむサロンです。<br><br>
+        だから、コーヒーでも、お茶でも、そして軽くお酒をたしなみながらでも、  
+        ゆるく語り合える雰囲気を大切にしています。
+    </p>
+
+    <h2>📘 入口散歩メモ（サンプル）</h2>
+
+    <div class="memo-box">
+        <h3>✨ 相対性理論の入口</h3>
+        <p>
+            時間はすべての人に同じように流れると思っていたけれど、  
+            じつは“速く動く人”や“強い重力のそばにいる人”では、時間の進み方が少し変わる。<br><br>
+            ここでは難しい式は置いておいて、  
+            「もし光に近い速さで宇宙船を飛ばしたら？」という想像の散歩から入ります。
+        </p>
+    </div>
+
+    <div class="memo-box">
+        <h3>🧬 DNA読み取りの入口</h3>
+        <p>
+            DNAは「設計図」と言われるけれど、実は“文字が書かれた本”のようなもの。  
+            細胞はその文字を読み取り、タンパク質という部品を作る。<br><br>
+            「本を読む」「レシピを見る」というイメージでDNAの世界をのぞいてみます。
+        </p>
+    </div>
+
+    <div class="memo-box">
+        <h3>🔦 光の正体の入口</h3>
+        <p>
+            光は波でもあり、粒でもある。どちらか一つでは説明できない不思議な存在。<br><br>
+            「光って、そもそも何者？」という素朴な疑問から散歩します。
+        </p>
+    </div>
+
+    <h2>📮 気軽な連絡コーナー</h2>
+    <p>重たい問い合わせフォームではなく、気軽にひとこと送れる“ゆるい連絡コーナー”です。</p>
+
+    <div class="contact-box">
+        <div class="contact-item">
+            <h3>📧 Email（気軽にどうぞ）</h3>
+            <p>メールアプリが開きます：</p>
+            <p><a href="mailto:example@example.com">example@example.com</a></p>
+        </div>
+
+        <div class="contact-item">
+            <h3>📱 SMS（短いメッセージでOK）</h3>
+            <p>スマホのSMSが開きます：</p>
+            <p><a href="sms:09000000000">090-0000-0000</a></p>
+        </div>
+
+        <div class="contact-item">
+            <h3>🧽 黒板（自由に書き込むメモ）</h3>
+            <p>気軽にひとこと書いて送れます（メール送信形式）：</p>
+            <form action="mailto:example@example.com" method="post" enctype="text/plain">
+                <textarea name="message" rows="5" placeholder="なんでもどうぞ。ひとことメモでも、感想でも、質問でも。"></textarea><br><br>
+                <button type="submit">黒板から送る</button>
+            </form>
+        </div>
+    </div>
+
+    <h2>🌿 参加について（ゆるい案内）</h2>
+    <p>
+        当面は個人の趣味として運営しています。  
+        数人でも「一緒に散歩してみたい」という方がいれば、  
+        オンラインでの小さなおしゃべり会も試してみたいと思っています。<br><br>
+        コーヒーでも、お茶でも、そして軽くお酒をたしなみながらでも、  
+        ゆるく語り合える時間を楽しめたらと思っています。<br><br>
+        参加費はありません。仕事感ゼロのまま、ゆるく続けていきます。
+    </p>
+</section>
+
+<footer>
+    このサイトは、個人が趣味で運営している「なんでも入口散歩の会」のホームページです。<br>
+    現在は作成中のお試し版として公開しています。<br>
+    間違いがあったり、もっとよい説明があったりしたら、やさしく教えていただけると嬉しいです。<br>
+    みんなで少しずつ“なるほど”を増やしていきましょう。
+</footer>
+
+</body>
+</html>
